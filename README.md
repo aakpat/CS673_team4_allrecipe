@@ -4,3 +4,5 @@ CS673 Project creating a website similar to allrecipes.com with better and novel
 This is an academic project for course cs673. (not for commercial purpose)
 
 To host on any web server deploy git file to server and run .sql file into database through phpmyadmin to import database data.
+
+Do not forgot to change wp-config.php file for database connection according to your database configuration.
